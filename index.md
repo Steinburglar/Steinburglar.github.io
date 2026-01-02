@@ -26,7 +26,7 @@ title: "Home"
   <strong>Contact:</strong><br/>
   Email: <a href="mailto:Steinbergerlucas02@gmail.com">Steinbergerlucas02@gmail.com</a><br/>
   LinkedIn: <a href="https://www.linkedin.com/in/lucas-steinberger">lucas-steinberger</a><br/>
-  GitHub: <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a>
+  GitHub: <a href="https://github.com/Steinburglar">Steinburglar</a>
   </div>
 
 </div>
@@ -55,8 +55,7 @@ title: "Home"
 
 Take a look at what I’ve been working on!
 
-### Relaxed Equivariance for Anisotropic Noise
-
+-### Relaxed Equivariance for Anisotropic Noise
 Final project for AMATH 226, Theory of Neural Computation.  
 [Read the full paper (PDF)](/assets/main.pdf)
 
@@ -73,3 +72,5 @@ CNNs on a rotated MNIST classification task with added isotropic and anisotropic
 contrary to our hypothesis and previous work, the fully equivariant model outperforms both the relaxed
 equivariant and normal CNN models in all noise settings.
 ## Fun Stuff ##
+
+
