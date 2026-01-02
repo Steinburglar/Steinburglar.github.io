@@ -7,7 +7,7 @@ title: "Home"
 
   <!-- Profile Photo -->
   <div style="flex: 0 0 150px; max-width: 150px;">
-    <img src="/assets/img/profile.jpg" alt="Profile photo of YOUR NAME"
+    <img src="/profile.jpg" alt="Profile photo of YOUR NAME"
          style="width: 100%; border-radius: 50%; object-fit: cover;">
   </div>
 
