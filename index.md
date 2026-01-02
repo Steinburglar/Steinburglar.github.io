@@ -13,11 +13,9 @@ title: "Home"
 
   <!-- Intro Blurb -->
   <div style="flex: 1 1 250px; min-width: 250px;">
-    ### Hi, I’m YOUR NAME
-
-    I’m a YOUR ROLE (e.g. *student / developer / designer / researcher*) based in CITY/COUNTRY.
-    I’m interested in TOPIC AREAS (e.g. web development, data science, etc.) and I enjoy
-    YOUR THING (e.g. building small tools, exploring new technologies, and sharing what I learn).
+  Hello and welcome To my website! I am a first year masters student in Harvard university's computational sciences and engineering degree, where I am primarly studying topics in physics, machine learning,
+  and materials science. As of Spring of 2026 I have joined the Materials Intelligince Research group (MIR) at Harvard SEAS under professor Boris Kozinsky, where I will be working on
+    applications of their NEquIP model for interatomic potentials. You can use this page to find my info and links, some select projects from my coursework and research, and a poupourri of photos from my personal hobbies and interests. Outside of STEM work or research, I love camping and outdoor adventure (sometimes of the type II variety), and I am an avid bass player who is always looking for new people to make music with!
   </div>
 
 </div>
