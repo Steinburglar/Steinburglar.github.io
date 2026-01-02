@@ -7,15 +7,26 @@ title: "Home"
 
   <!-- Profile Photo -->
   <div style="flex: 0 0 150px; max-width: 150px;">
-    <img src="/profile.jpg" alt="Profile photo of YOUR NAME"
+    <img src="/profile.jpg" alt="Profile photo of Lucas Steinberger"
          style="width: 100%; border-radius: 50%; object-fit: cover;">
   </div>
 
   <!-- Intro Blurb -->
   <div style="flex: 1 1 250px; min-width: 250px;">
-  Hello and welcome To my website! I am a first year masters student in Harvard university's computational sciences and engineering degree, where I am primarly studying topics in physics, machine learning,
-  and materials science. As of Spring of 2026 I have joined the Materials Intelligince Research group (MIR) at Harvard SEAS under professor Boris Kozinsky, where I will be working on
-    applications of their NEquIP model for interatomic potentials. You can use this page to find my info and links, some select projects from my coursework and research, and a poupourri of photos from my personal hobbies and interests. Outside of STEM work or research, I love camping and outdoor adventure (sometimes of the type II variety), and I am an avid bass player who is always looking for new people to make music with!
+  Hello and welcome to my website! I am a first-year master’s student in Harvard University’s Computational
+  Science and Engineering program, where I am primarily studying topics in physics, machine learning,
+  and materials science. As of spring 2026 I have joined the Materials Intelligence Research group (MIR) at
+  Harvard SEAS under Professor Boris Kozinsky, where I will be working on applications of their NEquIP model
+  for interatomic potentials. You can use this page to find my info and links, some selected projects from my
+  coursework and research, and a potpourri of photos from my personal hobbies and interests. Outside of STEM
+  work or research, I love camping and outdoor adventure (sometimes of the type II variety), and I am an avid
+  bass player who is always looking for new people to make music with!
+
+  <br/><br/>
+  <strong>Contact:</strong><br/>
+  Email: <a href="mailto:Steinbergerlucas02@gmail.com">Steinbergerlucas02@gmail.com</a><br/>
+  LinkedIn: <a href="https://www.linkedin.com/in/lucas-steinberger">lucas-steinberger</a><br/>
+  GitHub: <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a>
   </div>
 
 </div>
@@ -24,46 +35,34 @@ title: "Home"
 
 ## Education
 
-- **DEGREE / PROGRAM** – UNIVERSITY NAME  
-  *Start Year – End Year (or “Present”)*  
-  One short sentence about what you studied or focused on.
+- **Harvard University** – Cambridge, MA  
+  **M.S. in Computational Science and Engineering**  
+  *Sep 2025 – Expected Dec 2026*
 
-- **OPTIONAL SECOND DEGREE / PROGRAM** – INSTITUTION NAME  
-  *Start Year – End Year*  
-  Optional description or notable coursework / honors.
+- **Tufts University** – Medford, MA  
+  **B.S. in Physics, GPA: 4.0**  
+  *Aug 2023 – May 2025*
+
+- **Swarthmore College** – Swarthmore, PA  
+  **B.A. in Physics, GPA: 4.0**  
+  *Aug 2021 – Dec 2022*
 
 ---
 
 ## Projects
 
-> Replace the examples below with your own projects.  
-> You can link to GitHub repos, live demos, etc.
+I’ll add details about selected projects here soon.
 
-### Project Title 1
-- **Link:** [GitHub](https://github.com/yourusername/project-1) · [Live Demo](https://example.com)  
-- **Tech:** List key tools/tech (e.g. Python, React, Jekyll)  
-- **Description:** One or two sentences explaining what the project does, why you built it, and what you learned.
-
-### Project Title 2
-- **Link:** [GitHub](https://github.com/yourusername/project-2)  
-- **Tech:** …  
-- **Description:** Short description here.
-
-### Project Title 3 (Optional)
-- **Link:** …  
-- **Tech:** …  
-- **Description:** …
+- **Project 1** – Placeholder description.
+- **Project 2** – Placeholder description.
+- **Project 3** – Placeholder description.
 
 ---
 
 ## Personal Interests
 
-Outside of work/study, I enjoy:
+I’ll add more about my personal interests here soon.
 
-- **Interest 1** – A brief description (e.g. “I like hiking and taking landscape photos.”)
-- **Interest 2** – Another description (e.g. “I’m learning to play the guitar.”)
-- **Interest 3** – Another description.
-
-You can also add a short closing line, like:
-
-> I’m always open to connecting with new people—feel free to reach out via EMAIL OR SOCIAL LINKS.
+- **Interest 1** – Placeholder description.
+- **Interest 2** – Placeholder description.
+- **Interest 3** – Placeholder description.
