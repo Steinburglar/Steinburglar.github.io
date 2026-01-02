@@ -96,7 +96,7 @@ title: "Home"
 
   <!-- Photo 1 -->
   <figure style="flex: 1 1 250px; margin: 0;">
-    <img src="/assets/alison.jpg"
+    <img src="/assets/alison.jpeg"
          alt="Camping trip"
          style="width: 100%; max-width: 320px; border-radius: 8px;">
     <figcaption style="font-size: 0.9rem; color: #666; margin-top: 0.25rem;">
@@ -106,7 +106,7 @@ title: "Home"
 
   <!-- Photo 2 -->
   <figure style="flex: 1 1 250px; margin: 0;">
-    <img src="/assets/gus.jpg"
+    <img src="/assets/gus.jpeg"
          alt="Kayaking"
          style="width: 100%; max-width: 320px; border-radius: 8px;">
     <figcaption style="font-size: 0.9rem; color: #666; margin-top: 0.25rem;">
@@ -116,7 +116,7 @@ title: "Home"
 
   <!-- Photo 3 -->
   <figure style="flex: 1 1 250px; margin: 0;">
-    <img src="/assets/album.jpg"
+    <img src="/assets/album.jpeg"
          alt="Playing bass"
          style="width: 100%; max-width: 320px; border-radius: 8px;">
     <figcaption style="font-size: 0.9rem; color:g #666; margin-top: 0.25rem;">
