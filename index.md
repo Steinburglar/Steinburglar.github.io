@@ -15,8 +15,7 @@ title: "Home"
   <div style="flex: 1 1 250px; min-width: 250px;">
   Hello and welcome to my website! I am a first-year master’s student in Harvard University’s Computational
   Science and Engineering program, where I am primarily studying topics in physics, machine learning,
-  and materials science. As of spring 2026 I have joined the Materials Intelligence Research group (MIR) at
-  Harvard SEAS under Professor Boris Kozinsky, where I will be working on applications of their NEquIP model
+  and materials science. As of spring 2026 I have joined the Materials Intelligence Research group (MIR) under Prof. Boris Kozinsky, where I will be working   on applications of their NequIP model
   for interatomic potentials. You can use this page to find my info and links, some selected projects from my
   coursework and research, and a potpourri of photos from my personal hobbies and interests. Outside of STEM
   work or research, I love camping and outdoor adventure (sometimes of the type II variety), and I am an avid
@@ -87,7 +86,44 @@ title: "Home"
   </p>
 
 </div>
-## Fun Stuff ##
+---
 
+## Fun Stuff
+
+<p>Some photos from things I enjoy outside of work and research.</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+
+  <!-- Photo 1 -->
+  <figure style="flex: 1 1 250px; margin: 0;">
+    <img src="/assets/fun/alisonlake.jpg"
+         alt="Camping trip"
+         style="width: 100%; max-width: 320px; border-radius: 8px;">
+    <figcaption style="font-size: 0.9rem; color: #666; margin-top: 0.25rem;">
+      Alison Lake, Valdez AK. Picked buckets of blueberries!
+    </figcaption>
+  </figure>
+
+  <!-- Photo 2 -->
+  <figure style="flex: 1 1 250px; margin: 0;">
+    <img src="/assets/fun/gus.jpg"
+         alt="Kayaking"
+         style="width: 100%; max-width: 320px; border-radius: 8px;">
+    <figcaption style="font-size: 0.9rem; color: #666; margin-top: 0.25rem;">
+     We found this rooster on Crow island, named him Gus.  
+    </figcaption>
+  </figure>
+
+  <!-- Photo 3 -->
+  <figure style="flex: 1 1 250px; margin: 0;">
+    <img src="/assets/fun/recording.jpg"
+         alt="Playing bass"
+         style="width: 100%; max-width: 320px; border-radius: 8px;">
+    <figcaption style="font-size: 0.9rem; color:g #666; margin-top: 0.25rem;">
+      Recording an album with my college band. Guest appearance from the ghost of our vocalist over my shoulder. 
+    </figcaption>
+  </figure>
+
+</div>
 
 
