@@ -49,20 +49,27 @@ title: "Home"
 
 ---
 
-## Projects
-
-I’ll add details about selected projects here soon.
-
-- **Project 1** – Placeholder description.
-- **Project 2** – Placeholder description.
-- **Project 3** – Placeholder description.
-
 ---
 
-## Personal Interests
+## Projects
 
-I’ll add more about my personal interests here soon.
+Take a look at what I’ve been working on!
 
-- **Interest 1** – Placeholder description.
-- **Interest 2** – Placeholder description.
-- **Interest 3** – Placeholder description.
+### Relaxed Equivariance for Anisotropic Noise
+
+Final project for AMATH 226, Theory of Neural Computation.  
+[Read the full paper (PDF)](/assets/main.pdf)
+
+<img src="/assets/img/noised_examples.png"
+     alt="Example images from the Relaxed Equivariance for Anisotropic Noise project"
+     style="width: 100%; border-radius: 8px; margin: 1rem 0;">
+
+Equivariant neural networks have been shown to be more data-efficient and generalizable than their
+non-equivariant counterparts when the target function is known to be equivariant to some symmetry group.
+Recent work has also shown that for some physical systems that have approximate symmetries, approximately
+equivariant models can outperform both normal and strictly equivariant models, retaining state-of-the-art
+performance on fully equivariant tasks. In this work, we test the effectiveness of relaxed equivariant
+CNNs on a rotated MNIST classification task with added isotropic and anisotropic noise. We find that,
+contrary to our hypothesis and previous work, the fully equivariant model outperforms both the relaxed
+equivariant and normal CNN models in all noise settings.
+## Fun Stuff ##
