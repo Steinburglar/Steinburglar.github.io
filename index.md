@@ -51,26 +51,43 @@ title: "Home"
 
 ---
 
-## Projects
+---
 
-Take a look at what I’ve been working on!
+## <span style="font-size: 1.8em; font-weight: 700;">Projects</span>
 
-### Relaxed Equivariance for Anisotropic Noise
-Final project for AMATH 226, Theory of Neural Computation.  
-[Read the full paper (PDF)](/assets/main.pdf)
+<p style="margin-top: 0.5rem;">
+Take a look at what I’ve been working on. Here’s one example project:
+</p>
 
-<img src="/assets/img/noised_examples.png"
-     alt="Example images from the Relaxed Equivariance for Anisotropic Noise project"
-     style="width: 100%; border-radius: 8px; margin: 1rem 0;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.25rem; margin-top: 1rem;">
 
-Equivariant neural networks have been shown to be more data-efficient and generalizable than their
-non-equivariant counterparts when the target function is known to be equivariant to some symmetry group.
-Recent work has also shown that for some physical systems that have approximate symmetries, approximately
-equivariant models can outperform both normal and strictly equivariant models, retaining state-of-the-art
-performance on fully equivariant tasks. In this work, we test the effectiveness of relaxed equivariant
-CNNs on a rotated MNIST classification task with added isotropic and anisotropic noise. We find that,
-contrary to our hypothesis and previous work, the fully equivariant model outperforms both the relaxed
-equivariant and normal CNN models in all noise settings.
+  <h3 style="margin-top: 0; margin-bottom: 0.5rem;">
+    Relaxed Equivariance for Anisotropic Noise
+  </h3>
+
+  <p style="margin-top: 0; margin-bottom: 0.5rem; font-style: italic;">
+    Final project for AMATH 226, Theory of Neural Computation.
+  </p>
+
+  <p style="margin-top: 0; margin-bottom: 0.75rem;">
+    <a href="/assets/papers/relaxed_equivariance.pdf">Read the full paper (PDF)</a>
+  </p>
+
+  <img src="/assets/img/noised_examples.png"
+       alt="Example images from the Relaxed Equivariance for Anisotropic Noise project"
+       style="width: 100%; border-radius: 8px; margin: 0.5rem 0 1rem 0;">
+
+  <p style="margin-top: 0;">
+    Equivariant neural networks have been shown to be more data-efficient and generalizable than their
+    non-equivariant counterparts when the target function is known to be equivariant to some symmetry group.
+    Recent work has also shown that for some physical systems with approximate symmetries, approximately
+    equivariant models can outperform both normal and strictly equivariant models. In this work, we test the
+    effectiveness of relaxed equivariant CNNs on a rotated MNIST classification task with added isotropic and
+    anisotropic noise. We find that, contrary to our hypothesis and previous work, the fully equivariant model
+    outperforms both the relaxed equivariant and normal CNN models in all noise settings.
+  </p>
+
+</div>
 ## Fun Stuff ##
 
 
