@@ -56,7 +56,6 @@ title: "Home"
 ## <span style="font-size: 1.8em; font-weight: 700;">Projects</span>
 
 <p style="margin-top: 0.5rem;">
-Take a look at what I’ve been working on. Here’s one example project:
 </p>
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.25rem; margin-top: 1rem;">
