@@ -120,7 +120,7 @@ title: "Home"
          alt="Playing bass"
          style="width: 100%; max-width: 320px; border-radius: 8px;">
     <figcaption style="font-size: 0.9rem; color:g #666; margin-top: 0.25rem;">
-      Recording an album with my college band. Guest appearance from the ghost of our vocalist over my shoulder. 
+      Recording an album with my college band.
     </figcaption>
   </figure>
 
