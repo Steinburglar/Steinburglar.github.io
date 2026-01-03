@@ -15,7 +15,7 @@ title: "Home"
   <div style="flex: 1 1 250px; min-width: 250px;">
   Hello and welcome to my website! I am a first-year master’s student in Harvard University’s Computational
   Science and Engineering program, where I am primarily studying topics in physics, machine learning,
-  and materials science. As of spring 2026 I have joined the Materials Intelligence Research group (MIR) under Prof. Boris Kozinsky, where I will be working   on applications of their NequIP model
+  and materials science. As of Spring 2026 I have joined the Materials Intelligence Research group (MIR) under Prof. Boris Kozinsky, where I will be working   on applications of their NequIP model
   for interatomic potentials. You can use this page to find my info and links, some selected projects from my
   coursework and research, and a potpourri of photos from my personal hobbies and interests. Outside of STEM
   work or research, I love camping and outdoor adventure (sometimes of the type II variety), and I am an avid
